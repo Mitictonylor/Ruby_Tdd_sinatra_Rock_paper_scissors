@@ -1,6 +1,6 @@
 class Logic
 
-  def self.rock_paper_scissors(player1,player2)
+  def Logic.rock_paper_scissors(player1,player2)
     if player1.downcase == 'rock' && player2.downcase == 'scissors'
         return "Player 1 wins by playing #{player1}"
       elsif player1.downcase == 'rock' && player2.downcase == 'paper'
