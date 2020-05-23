@@ -1,11 +1,23 @@
-body {
-  background: grey;
+.body {
+  margin-left: 30%
+  padding: 20;
+  top: 20%;
+  height: 400px;
+  width: 600px
+  left: 40%;
+  background: papayawhip;
 }
 
 .blue {
-  color: blue;
+  color: darkblue;
 }
 
 .red {
-  color: red;
+  color: darkred;
+}
+.instructions{
+  margin:0;
+  padding:0;
+  height: 20%;
+  width: 60%
 }
